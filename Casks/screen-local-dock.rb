@@ -16,7 +16,7 @@ cask "screen-local-dock" do
   # keeps it current after the first install; `auto_updates true` tells Homebrew
   # not to fight it.
   auto_updates true
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "ScreenLocalDock.app"
 
