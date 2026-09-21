@@ -4,10 +4,10 @@
 # `brew install --cask gee-m/tap/screen-local-dock` works. The tap is NOT created
 # by any script here — see DISTRIBUTION.md.
 cask "screen-local-dock" do
-  version "0.1.2"
-  sha256 "0c5337f45fcaf846288e8f6e604675f42068e88255cc106a236b7f4b15f2a9a0"
+  version "0.2.0"
+  sha256 "005bfa6edf7d6510f7ba60f738dd30e32c16823fa4ef86417e2ee8bb062935aa"
 
-  url "https://guillaume.ai/downloads/ScreenLocalDock-0.1.2.dmg"
+  url "https://guillaume.ai/downloads/ScreenLocalDock-0.2.0.dmg"
   name "Screen-local Dock"
   desc "Per-display dock of the windows on that screen, summoned by a wiggle"
   homepage "https://guillaume.ai/apps"
